@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.exe
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.deps.json
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.dll
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\bin\Debug\net7.0\ProgressaoAritmetica.pdb
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.dll
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\refint\ProgressaoAritmetica.dll
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.pdb
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ProgressaoAritmetica.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ProgressaoAritmetica\ProgressaoAritmetica\obj\Debug\net7.0\ref\ProgressaoAritmetica.dll

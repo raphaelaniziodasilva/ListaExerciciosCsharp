@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\bin\Debug\net7.0\ProcedimentoCaracteres.exe
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\bin\Debug\net7.0\ProcedimentoCaracteres.deps.json
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\bin\Debug\net7.0\ProcedimentoCaracteres.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\bin\Debug\net7.0\ProcedimentoCaracteres.dll
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\bin\Debug\net7.0\ProcedimentoCaracteres.pdb
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.dll
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\refint\ProcedimentoCaracteres.dll
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.pdb
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ProcedimentoCaracteres.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ProcedimentoCaracteres\ProcedimentoCaracteres\obj\Debug\net7.0\ref\ProcedimentoCaracteres.dll

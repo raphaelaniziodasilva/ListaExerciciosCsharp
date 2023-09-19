@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\bin\Debug\net7.0\ValoresLiterais.exe
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\bin\Debug\net7.0\ValoresLiterais.deps.json
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\bin\Debug\net7.0\ValoresLiterais.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\bin\Debug\net7.0\ValoresLiterais.dll
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\bin\Debug\net7.0\ValoresLiterais.pdb
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.dll
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\refint\ValoresLiterais.dll
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.pdb
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ValoresLiterais.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ValoresLiterais\ValoresLiterais\obj\Debug\net7.0\ref\ValoresLiterais.dll

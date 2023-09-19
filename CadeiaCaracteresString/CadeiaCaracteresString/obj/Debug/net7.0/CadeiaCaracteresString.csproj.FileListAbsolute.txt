@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\bin\Debug\net7.0\CadeiaCaracteresString.exe
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\bin\Debug\net7.0\CadeiaCaracteresString.deps.json
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\bin\Debug\net7.0\CadeiaCaracteresString.runtimeconfig.json
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\bin\Debug\net7.0\CadeiaCaracteresString.dll
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\bin\Debug\net7.0\CadeiaCaracteresString.pdb
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.dll
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\refint\CadeiaCaracteresString.dll
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.pdb
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\CadeiaCaracteresString.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\CadeiaCaracteresString\CadeiaCaracteresString\obj\Debug\net7.0\ref\CadeiaCaracteresString.dll

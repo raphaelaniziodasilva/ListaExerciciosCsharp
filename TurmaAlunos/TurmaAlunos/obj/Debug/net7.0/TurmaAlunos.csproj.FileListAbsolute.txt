@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\bin\Debug\net7.0\TurmaAlunos.exe
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\bin\Debug\net7.0\TurmaAlunos.deps.json
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\bin\Debug\net7.0\TurmaAlunos.runtimeconfig.json
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\bin\Debug\net7.0\TurmaAlunos.dll
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\bin\Debug\net7.0\TurmaAlunos.pdb
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.dll
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\refint\TurmaAlunos.dll
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.pdb
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\TurmaAlunos.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\TurmaAlunos\TurmaAlunos\obj\Debug\net7.0\ref\TurmaAlunos.dll

@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\bin\Debug\net7.0\TamanhoArray.exe
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\bin\Debug\net7.0\TamanhoArray.deps.json
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\bin\Debug\net7.0\TamanhoArray.runtimeconfig.json
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\bin\Debug\net7.0\TamanhoArray.dll
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\bin\Debug\net7.0\TamanhoArray.pdb
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.dll
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\refint\TamanhoArray.dll
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.pdb
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\TamanhoArray.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\TamanhoArray\TamanhoArray\obj\Debug\net7.0\ref\TamanhoArray.dll

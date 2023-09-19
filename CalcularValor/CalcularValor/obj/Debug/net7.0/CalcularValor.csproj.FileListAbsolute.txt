@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\bin\Debug\net7.0\CalcularValor.exe
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\bin\Debug\net7.0\CalcularValor.deps.json
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\bin\Debug\net7.0\CalcularValor.runtimeconfig.json
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\bin\Debug\net7.0\CalcularValor.dll
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\bin\Debug\net7.0\CalcularValor.pdb
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.dll
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\refint\CalcularValor.dll
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.pdb
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\CalcularValor.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\CalcularValor\CalcularValor\obj\Debug\net7.0\ref\CalcularValor.dll

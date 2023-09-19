@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\bin\Debug\net7.0\ValoresInteiros.exe
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\bin\Debug\net7.0\ValoresInteiros.deps.json
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\bin\Debug\net7.0\ValoresInteiros.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\bin\Debug\net7.0\ValoresInteiros.dll
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\bin\Debug\net7.0\ValoresInteiros.pdb
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.dll
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\refint\ValoresInteiros.dll
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.pdb
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ValoresInteiros.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ValoresInteiros\ValoresInteiros\obj\Debug\net7.0\ref\ValoresInteiros.dll

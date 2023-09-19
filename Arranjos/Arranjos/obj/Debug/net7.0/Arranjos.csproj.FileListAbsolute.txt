@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\bin\Debug\net7.0\Arranjos.exe
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\bin\Debug\net7.0\Arranjos.deps.json
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\bin\Debug\net7.0\Arranjos.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\bin\Debug\net7.0\Arranjos.dll
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\bin\Debug\net7.0\Arranjos.pdb
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.dll
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\refint\Arranjos.dll
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.pdb
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\Arranjos.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Arranjos\Arranjos\obj\Debug\net7.0\ref\Arranjos.dll

@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\bin\Debug\net7.0\PesoIdeal.exe
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\bin\Debug\net7.0\PesoIdeal.deps.json
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\bin\Debug\net7.0\PesoIdeal.runtimeconfig.json
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\bin\Debug\net7.0\PesoIdeal.dll
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\bin\Debug\net7.0\PesoIdeal.pdb
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.dll
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\refint\PesoIdeal.dll
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.pdb
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\PesoIdeal.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\PesoIdeal\PesoIdeal\obj\Debug\net7.0\ref\PesoIdeal.dll

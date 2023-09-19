@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\bin\Debug\net7.0\FuncaoParaArray.exe
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\bin\Debug\net7.0\FuncaoParaArray.deps.json
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\bin\Debug\net7.0\FuncaoParaArray.runtimeconfig.json
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\bin\Debug\net7.0\FuncaoParaArray.dll
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\bin\Debug\net7.0\FuncaoParaArray.pdb
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.dll
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\refint\FuncaoParaArray.dll
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.pdb
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\FuncaoParaArray.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\FuncaoParaArray\FuncaoParaArray\obj\Debug\net7.0\ref\FuncaoParaArray.dll

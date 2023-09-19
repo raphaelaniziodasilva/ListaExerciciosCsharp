@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\bin\Debug\net7.0\ElementosNegativos.exe
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\bin\Debug\net7.0\ElementosNegativos.deps.json
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\bin\Debug\net7.0\ElementosNegativos.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\bin\Debug\net7.0\ElementosNegativos.dll
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\bin\Debug\net7.0\ElementosNegativos.pdb
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.dll
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\refint\ElementosNegativos.dll
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.pdb
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ElementosNegativos.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ElementosNegativos\ElementosNegativos\obj\Debug\net7.0\ref\ElementosNegativos.dll

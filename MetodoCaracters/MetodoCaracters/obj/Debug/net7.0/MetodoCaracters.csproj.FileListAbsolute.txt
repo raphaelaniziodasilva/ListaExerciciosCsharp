@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\bin\Debug\net7.0\MetodoCaracters.exe
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\bin\Debug\net7.0\MetodoCaracters.deps.json
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\bin\Debug\net7.0\MetodoCaracters.runtimeconfig.json
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\bin\Debug\net7.0\MetodoCaracters.dll
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\bin\Debug\net7.0\MetodoCaracters.pdb
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.dll
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\refint\MetodoCaracters.dll
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.pdb
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\MetodoCaracters.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\MetodoCaracters\MetodoCaracters\obj\Debug\net7.0\ref\MetodoCaracters.dll

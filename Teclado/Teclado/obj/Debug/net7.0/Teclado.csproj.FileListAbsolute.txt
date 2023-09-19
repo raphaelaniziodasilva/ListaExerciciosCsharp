@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Teclado\Teclado\bin\Debug\net7.0\Teclado.exe
+C:\Users\dtiDigital\Videos\Teclado\Teclado\bin\Debug\net7.0\Teclado.deps.json
+C:\Users\dtiDigital\Videos\Teclado\Teclado\bin\Debug\net7.0\Teclado.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Teclado\Teclado\bin\Debug\net7.0\Teclado.dll
+C:\Users\dtiDigital\Videos\Teclado\Teclado\bin\Debug\net7.0\Teclado.pdb
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.dll
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\refint\Teclado.dll
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.pdb
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\Teclado.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Teclado\Teclado\obj\Debug\net7.0\ref\Teclado.dll

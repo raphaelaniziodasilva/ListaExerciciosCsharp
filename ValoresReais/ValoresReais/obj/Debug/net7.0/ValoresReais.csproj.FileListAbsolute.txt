@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\bin\Debug\net7.0\ValoresReais.exe
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\bin\Debug\net7.0\ValoresReais.deps.json
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\bin\Debug\net7.0\ValoresReais.runtimeconfig.json
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\bin\Debug\net7.0\ValoresReais.dll
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\bin\Debug\net7.0\ValoresReais.pdb
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.dll
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\refint\ValoresReais.dll
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.pdb
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ValoresReais.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\ValoresReais\ValoresReais\obj\Debug\net7.0\ref\ValoresReais.dll

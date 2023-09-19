@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\bin\Debug\net7.0\Bissexto.exe
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\bin\Debug\net7.0\Bissexto.deps.json
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\bin\Debug\net7.0\Bissexto.runtimeconfig.json
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\bin\Debug\net7.0\Bissexto.dll
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\bin\Debug\net7.0\Bissexto.pdb
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.dll
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\refint\Bissexto.dll
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.pdb
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\Bissexto.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\Bissexto\Bissexto\obj\Debug\net7.0\ref\Bissexto.dll

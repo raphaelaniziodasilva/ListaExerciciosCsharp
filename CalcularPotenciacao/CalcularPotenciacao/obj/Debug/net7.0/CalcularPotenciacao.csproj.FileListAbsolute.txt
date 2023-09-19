@@ -1,0 +1,14 @@
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\bin\Debug\net7.0\CalcularPotenciacao.exe
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\bin\Debug\net7.0\CalcularPotenciacao.deps.json
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\bin\Debug\net7.0\CalcularPotenciacao.runtimeconfig.json
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\bin\Debug\net7.0\CalcularPotenciacao.dll
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\bin\Debug\net7.0\CalcularPotenciacao.pdb
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.AssemblyInfoInputs.cache
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.AssemblyInfo.cs
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.csproj.CoreCompileInputs.cache
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.dll
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\refint\CalcularPotenciacao.dll
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.pdb
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\CalcularPotenciacao.genruntimeconfig.cache
+C:\Users\dtiDigital\Videos\CalcularPotenciacao\CalcularPotenciacao\obj\Debug\net7.0\ref\CalcularPotenciacao.dll
